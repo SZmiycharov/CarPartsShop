@@ -1,1 +1,6 @@
 D:\Users\Desktop\CarPartsShop\CarPartsShopGit\CarPartsShopGit\bin\Debug\CarPartsShopGit.exe.config
+D:\Users\Desktop\CarPartsShop\CarPartsShopGit\CarPartsShopGit\obj\Debug\CarPartsShopGit.csprojResolveAssemblyReference.cache
+D:\Users\Desktop\CarPartsShop\CarPartsShopGit\CarPartsShopGit\bin\Debug\CarPartsShopGit.exe
+D:\Users\Desktop\CarPartsShop\CarPartsShopGit\CarPartsShopGit\bin\Debug\CarPartsShopGit.pdb
+D:\Users\Desktop\CarPartsShop\CarPartsShopGit\CarPartsShopGit\obj\Debug\CarPartsShopGit.exe
+D:\Users\Desktop\CarPartsShop\CarPartsShopGit\CarPartsShopGit\obj\Debug\CarPartsShopGit.pdb

@@ -6,17 +6,18 @@ using System.Threading.Tasks;
 
 namespace CarPartsShopGit
 {
+    public enum PartCategory
+    {
+        Engine,
+        Tires,
+        Exhaust,
+        Suspension,
+        Brakes
+    }
+
     class Part
     {
-        public enum PartCategory
-        {
-            Engine,
-            Tires,
-            Exhaust,
-            Suspension,
-            Brakes
-        }
-
+        
         private String name;
         private String code;
         private PartCategory category;
